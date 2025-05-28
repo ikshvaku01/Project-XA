@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment variables
+.env
+
+# Git directory
+.git/
