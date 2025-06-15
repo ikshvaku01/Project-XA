@@ -10,3 +10,6 @@ node_modules/
 
 # Git directory
 .git/
+
+# Next Directory
+.next/

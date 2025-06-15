@@ -1,0 +1,17 @@
+{
+  "name": "deafult-backend-setup",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "db:setup": "NODE_ENV=development ts-node setup.ts"
+  },
+  "dependencies": {
+    "pg": "^8.16.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.15.4",
+    "dotenv": "^16.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
